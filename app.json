@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "ExpoCommunity",
+    "slug": "expo-community",
+    "scheme": "acme",
+    "version": "1.0.0",
+    "icon": "./assets/images/logo.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "backgroundColor": "#3573ff",
+      "resizeMode": "contain"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-localization",
+      "expo-router"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.developing4all.exporouterredux",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#00a800"
+      }
+    }
+  }
+}

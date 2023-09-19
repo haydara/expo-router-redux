@@ -1,0 +1,21 @@
+{
+    "Welcome Back": "Welcome Terug",
+    "Login to continue": "Log in om door te gaan",
+    "Username is required": "Uw dient uw gebruikersnaam / e-mail in te vullen",
+    "Password max 20": "Wachtwoord mag maximaal 20 karacters zijn",
+    "Password is required": "Uw dient uw wachtwoord in te vullen",
+    "Username or e-mail": "Gebruikersnaam of e-mail",
+    "Password": "Wachtwoord",
+    "Forgot your Password?": "Wachtwoord vergeten?",
+    "Login": "Inloggen",
+    "Login with": "Inloggen met",
+    "Don't have account?": "Heeft u geen account?",
+    "Register": "Registreren",
+
+    "E-mail is required": "Uw dient uw E-mail in te vullen",
+    "Not a proper email": "Ongeldig e-mail address",
+    "Lost password": "Wachtwoord vergeten",
+    "Fill your email for password recovery": "Uw wachtwoord invullen om te resetten",
+    "E-mail": "E-mail",
+    "Back": "Terug"
+}

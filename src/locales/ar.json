@@ -1,0 +1,21 @@
+{
+    "Welcome Back": "مرحباََ بعودتك",
+    "Login to continue": "Login to continue",
+    "Username is required": "Username is required",
+    "Password max 20": "Password max 20",
+    "Password is required": "Password is required",
+    "Username or e-mail": "Username or e-mail",
+    "Password": "Password",
+    "Forgot your Password?": "Forgot your Password?",
+    "Login": "Login",
+    "Login with": "Login with",
+    "Don't have account?": "Don't have account?",
+    "Register": "Register",
+
+    "E-mail is required": "E-mail is required",
+    "Not a proper email": "Not a proper email",
+    "Lost password": "Lost password",
+    "Fill your email for password recovery": "Fill your email for password recovery",
+    "E-mail": "E-mail",
+    "Back": "Back"
+}

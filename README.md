@@ -1,4 +1,4 @@
-# 📱 Expo Router Tabs With Redus Template
+# 📱 Expo Router Tabs With Redux Template
 An Expo Router Redux based app template
 You can use this template as a base for your own expo app, 
 
